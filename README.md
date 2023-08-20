@@ -1,4 +1,4 @@
-# daynails
+# Daynails
 Nail appointment booking and Pricing website
 
 What does this website do?
